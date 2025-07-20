@@ -60,7 +60,7 @@ https://github.com/Priya-Harshitha/Temperature-Conversion/issues/1#issue-3246452
 ## 👩‍💻 Developed By
 
 **Thota Priya Harshitha**  
-📫LinkedIn: 
+📫LinkedIn: https://www.linkedin.com/in/priya-harshitha-991b87280/
 
 ---
 
