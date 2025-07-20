@@ -53,6 +53,7 @@ The result is displayed dynamically without reloading the page.
 
 ## 📸 Screenshot
 
+https://github.com/Priya-Harshitha/Temperature-Conversion/issues/1#issue-3246452026
 
 ---
 
